@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, Convert!</string>
+    <string name="app_name">Temperatur Converter</string>
+    <color name="myColor">#3399CC</color>
+    <string name="myClickHandler">myClickHandler</string>
+    <string name="celcius">to Celcius</string>
+    <string name="fahrenheit">to Fahrenheit</string>
+    <string name="calc">Calculate</string>
+    <string name="textHint">Enter Temperature</string>
+    <string name="tempInF" formatted="false">%.02f celcius is: %.02f fahrenheit</string>
+    <string name="tempInC" formatted="false">%.02f farenheit is: %.02f celcius</string>
+
+</resources>
